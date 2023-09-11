@@ -10,8 +10,7 @@ local botchats = {
     "plzzzz essex me 🙏🙏🙏 | rot",
     "my anti fling is bypassing his bot lol 🤓🤓 | rot",
     "I'm based and you're cringe 😭🤓 | rot",
-    "I NEED A SCENEGIRL PLS HMU | rot",
-    "If u play destiny 2 HML add @ Lyoni on khord"
+    "I NEED A SCENEGIRL PLS HMU | rot"
 }
 
 return botchats
