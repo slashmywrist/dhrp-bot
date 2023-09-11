@@ -7,10 +7,10 @@ local botchats = {
     "Mmmm i need CP, CP where? Pls CP me // " .. discord .. " | rot",
     "god i wish i had a whitelist..... 🙏🙏🥺🥺🥺 plzzzzz brooooo 🛐 GIVE IT🛐🛐 // " .. discord .. " | rot",
     "HOw do you get ACCESS to this Whitelist // " .. discord .. " | rot",
-    "plzzzz essex me 🙏🙏🙏 | rot",
     "my anti fling is bypassing his bot lol 🤓🤓 | rot",
     "I'm based and you're cringe 😭🤓 | rot",
-    "I NEED A SCENEGIRL PLS HMU | rot"
+    "I NEED A SCENEGIRL PLS HMU | rot",
+    "HE WAS A SK8R BOI SHE SAID SEE YA LATER BOI | rot"
 }
 
 return botchats
