@@ -9,7 +9,6 @@ local botchats = {
     "HOw do you get ACCESS to this Whitelist // " .. discord .. " | rot",
     "my anti fling is bypassing his bot lol 🤓🤓 | rot",
     "I'm based and you're cringe 😭🤓 | rot",
-    "I NEED A SCENEGIRL PLS HMU | rot",
     "HE WAS A SK8R BOI SHE SAID SEE YA LATER BOI | rot"
 }
 
