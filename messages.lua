@@ -13,6 +13,7 @@ local botchats = {
     "follow kqhw on sc // " .. discord .. "  | rot",
     ".gg/act // .gg/praying join up (praying 4 wl) | rot",
     "WalrusTV — oml im dealing with a bunch of noobs who like to play pretend hackers 🤓🤓🤓",
+    "Krone - Im done flinging!11 TIme 2 StArt mY oWn Era, goes back 2 flinging 😂😂 // keep sending ur Pecker around 2 miners | rot"
 
 }
 
