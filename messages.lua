@@ -11,7 +11,9 @@ local botchats = {
     "I'm based and you're cringe 😭🤓 | rot",
     "HE WAS A SK8R BOI SHE SAID SEE YA LATER BOI | rot",
     "follow kqhw on sc // " .. discord .. "  | rot",
-    ".gg/act // .gg/praying join up (praying 4 wl) | rot"
+    ".gg/act // .gg/praying join up (praying 4 wl) | rot",
+    "WalrusTV — oml im dealing with a bunch of noobs who like to play pretend hackers 🤓🤓🤓",
+
 }
 
 return botchats
