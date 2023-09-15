@@ -10,7 +10,8 @@ local botchats = {
     "my anti fling is bypassing his bot lol 🤓🤓 | rot",
     "I'm based and you're cringe 😭🤓 | rot",
     "HE WAS A SK8R BOI SHE SAID SEE YA LATER BOI | rot",
-    "follow kqhw on sc // " .. discord .. "  | rot"
+    "follow kqhw on sc // " .. discord .. "  | rot",
+    ".gg/act // .gg/praying join up (praying 4 wl) | rot"
 }
 
 return botchats
